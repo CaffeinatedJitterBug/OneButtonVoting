@@ -1,0 +1,26 @@
+* {
+    max-width:98%;
+    margin: auto;
+    padding: 2%
+}
+
+body {
+    background-color: #0197F6;
+    color: #8EF9F3
+}
+
+h1, h2 {
+    color: #2A12CB;
+}
+
+p {
+    font-size: 20px;
+}
+
+button {
+    display: block;
+    background-color: #D874E8;
+    margin: 1%;
+    color: #251605;
+    padding: 0.5%;
+}
